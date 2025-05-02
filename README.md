@@ -1,8 +1,8 @@
 
 # 🌿 Green Thumbs
 
-Bienvenue sur **Green Thumbs**, une application web développé dans un cadre académique dédiée aux amoureux des plantes !
-Ce site vitrine propose un univers végétal moderne, une expérience utilisateur fluide, et des fonctionnalités claires pour découvrir, choisir et commander vos plantes préférées.  
+Welcome to **Green Thumbs**, a web application developed in an academic context!
+This showcase website offers a modern green universe, a smooth user experience, and clear features to help you discover, choose, and order your favorite plants.
 
 ---
 
@@ -15,9 +15,9 @@ Ce site vitrine propose un univers végétal moderne, une expérience utilisateu
 ## 🛠️ Tech Stack
 
 - **HTML5**
-- **CSS3** (avec `normalize.css`)
+- **CSS3** (with `normalize.css`)
 - **JavaScript**
-- **Fontawesome** pour les icônes
+- **Fontawesome** for icons
 - **Responsive Design** 🌐
 
 ---
@@ -30,7 +30,7 @@ Ce site vitrine propose un univers végétal moderne, une expérience utilisateu
 │   ├── normalize.css
 │   └── style.css
 ├── 📁 img/
-│   └── (images des plantes, cartes, etc.)
+│   └── (plant images, cards, etc.)
 ├── 📁 js/
 │   └── app.js
 📄 index.html
@@ -40,34 +40,34 @@ Ce site vitrine propose un univers végétal moderne, une expérience utilisateu
 
 ---
 
-## ✨ Fonctionnalités
+## ✨ Features
 
-- Navigation fluide à travers les sections : Accueil, À propos, Produits, FAQ, Contact
-- Interface responsive pour mobile et desktop
-- Formulaire de contact fonctionnel (à brancher à un backend si besoin)
-- Effets d'interactions avec des icônes animées
-- Section FAQ dynamique
-- Footer complet avec contact, newsletter et infos de paiement
+- Smooth navigation across sections: Home, About, Products, FAQ, Contact
+- Responsive interface for both mobile and desktop
+- Functional contact form (ready to connect to a backend if needed)
+- Interactive effects with animated icons
+- Dynamic FAQ section
+- Full-featured footer with contact info, newsletter signup, and payment details
 
 ---
 
 ## 📸 À propos
 
-Green Thumbs est une interface simple mais élégante pour tout passionné de plantes.  
-Elle peut servir de base pour :
+Green Thumbs is a simple yet elegant interface for all plant enthusiasts.
+It can serve as a foundation for:
 
-- Un projet e-commerce 🌱
-- Un site vitrine 🌼
-- Une démo de design frontend 🎨
+- An e-commerce project 🌱
+- A showcase website 🌼
+- A frontend design demo 🎨
 
 ---
 
 ## 📬 Contact
 
-Créé avec ❤️ par [@c1pps.web](https://github.com/c1pps)
+Made with ❤️ by [@c1pps.web](https://github.com/c1pps)
 
 ---
 
 ## 📄 Licence
 
-Ce projet est open-source et sous licence [MIT](LICENSE).
+This project is open-source and licensed under the [MIT](LICENSE).
