@@ -6,7 +6,7 @@ This showcase website offers a modern green universe, a smooth user experience, 
 
 ---
 
-## 🚀 Aperçu
+## 🚀 Preview
 
 ![screenshot](CDC/Les-pouces-verts.png)
 
@@ -22,7 +22,7 @@ This showcase website offers a modern green universe, a smooth user experience, 
 
 ---
 
-## 📂 Structure du projet
+## 📂 Project structure
 
 ```
 📁 assets/
@@ -51,7 +51,7 @@ This showcase website offers a modern green universe, a smooth user experience, 
 
 ---
 
-## 📸 À propos
+## 📸 About
 
 Green Thumbs is a simple yet elegant interface for all plant enthusiasts.
 It can serve as a foundation for:
