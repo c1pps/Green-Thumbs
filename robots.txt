@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /
+Sitemap: https://r-green-thumbs.vercel.app/sitemap.xml
