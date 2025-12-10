@@ -1,46 +1,45 @@
+# Green Thumbs
 
-# 🌿 Green Thumbs
-
-Welcome to **Green Thumbs**, a web application developed in an academic context!
+Welcome to **Green Thumbs**, a web application developed in an academic context.
 This showcase website offers a modern green universe, a smooth user experience, and clear features to help you discover, choose, and order your favorite plants.
 
 ---
 
-## 🚀 Preview
+## Preview
 
 ![screenshot](CDC/Les-pouces-verts.png)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-- **HTML5**
-- **CSS3** (with `normalize.css`)
-- **JavaScript**
-- **Fontawesome** for icons
-- **Responsive Design** 🌐
+- HTML5
+- CSS3 (with `normalize.css`)
+- JavaScript
+- Fontawesome for icons
+- Responsive Design
 
 ---
 
-## 📂 Project structure
+## Project structure
 
 ```
-📁 assets/
-├── 📁 css/
+assets/
+├── css/
 │   ├── normalize.css
 │   └── style.css
-├── 📁 img/
+├── img/
 │   └── (plant images, cards, etc.)
-├── 📁 js/
+├── js/
 │   └── app.js
-📄 index.html
-📄 README.md
-📄 LICENSE
+index.html
+README.md
+LICENSE
 ```
 
 ---
 
-## ✨ Features
+## Features
 
 - Smooth navigation across sections: Home, About, Products, FAQ, Contact
 - Responsive interface for both mobile and desktop
@@ -51,23 +50,23 @@ This showcase website offers a modern green universe, a smooth user experience, 
 
 ---
 
-## 📸 About
+## About
 
-Green Thumbs is a simple yet elegant interface for all plant enthusiasts.
+Green Thumbs is a simple yet elegant interface for plant enthusiasts.
 It can serve as a foundation for:
 
-- An e-commerce project 🌱
-- A showcase website 🌼
-- A frontend design demo 🎨
+- An e-commerce project  
+- A showcase website  
+- A frontend design demo  
 
 ---
 
-## 📬 Contact
+## Contact
 
-Made with ❤️ by [@c1pps.web](https://github.com/c1pps)
+Made by [@c1pps.web](https://github.com/c1pps)
 
 ---
 
-## 📄 Licence
+## License
 
-This project is open-source and licensed under the [MIT](LICENSE).
+This project is open-source and licensed under the MIT License.
